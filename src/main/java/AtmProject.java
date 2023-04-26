@@ -11,6 +11,9 @@ public class AtmProject {
 
         System.out.println("vehbi branch i kodlarini yazdi");
         //version vhb1
+
+        System.out.println("bir kisim kodlar");
+        //vhb2
     }
 
 }
