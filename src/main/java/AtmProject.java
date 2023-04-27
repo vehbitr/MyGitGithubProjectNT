@@ -19,6 +19,7 @@ public class AtmProject {
         //vhb3
         System.out.println();
         //localde degisiklik yaptim.
+        //remoteda degisiklik yaptim.
     }
 
 }
